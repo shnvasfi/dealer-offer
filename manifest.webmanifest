@@ -1,6 +1,6 @@
 {
-  "name": "DO_Offer",
-  "short_name": "DO_Offer",
+  "name": "GeneratorOfert",
+  "short_name": "GeneratorOfert",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
